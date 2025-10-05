@@ -45,3 +45,24 @@ Ensure the Pokémon CSV file is in the correct project directory (or update the 
 Run the main class (console version).
 
 The GUI version can be launched from the GUI class file, but functionality is still under development.
+
+Future Improvements
+
+Complete GUI functionality (button actions, animations, HP bars)
+
+Expand move sets and randomized attack choices
+
+Implement full type-effectiveness system
+
+Add additional items and battle conditions (status effects, critical hits, etc.)
+
+Improve trainer AI and decision-making
+
+Expand CSV dataset to include more Pokémon
+
+Add battle logging and win tracking
+
+Author
+
+Bruce Nie
+Data Science Major @ UC San Diego
